@@ -1,4 +1,4 @@
-Feature: Add Parameter :RAddParameter
+Feature: Add Parameter
   This refactoring should add a new parameter to a method definition, regardless of how many the method already has.  
 
     Shortcuts:

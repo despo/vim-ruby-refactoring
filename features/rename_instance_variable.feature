@@ -1,4 +1,4 @@
-Feature: Renaming instance variable :RRenameInstanceVariable
+Feature: Renaming instance variable
 
     Shortcuts:
       :RRenameInstanceVariable

@@ -1,4 +1,4 @@
-Feature: Inline Temp :RInlineTemp
+Feature: Inline Temp
   This refactoring takes a temporary variable and inlines the use of it.
 
     Shortcuts:

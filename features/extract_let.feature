@@ -1,4 +1,4 @@
-Feature: Extract RSpec Let :RExtractLet
+Feature: Extract RSpec Let
   Take an assignment in an rspec specfication and convert it into a let declaration
 
     Shortcuts:

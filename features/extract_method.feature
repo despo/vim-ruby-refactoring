@@ -1,4 +1,4 @@
-Feature: Extract Method :RExtractMethod
+Feature: Extract Method
   Extracts the selected code into a new method of its own.
 
     Shortcuts:

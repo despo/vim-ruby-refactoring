@@ -1,4 +1,4 @@
-Feature: Convert Post Conditional :RConvertPostConditional
+Feature: Convert Post Conditional
   Takes a post-conditional expression and converts it into a regular conditional statement
 
     Shortcuts:

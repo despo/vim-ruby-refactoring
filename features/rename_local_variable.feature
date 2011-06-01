@@ -1,4 +1,4 @@
-Feature: Rename Local Variable :RRenameLocalVariable
+Feature: Rename Local Variable
   Renames a local variable to be something more meaningful and intention revealing
 
     Shortcuts:

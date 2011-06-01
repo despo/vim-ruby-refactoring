@@ -1,4 +1,4 @@
-Feature: Extract Local Variable :RExtractLocalVariable
+Feature: Extract Local Variable
   Takes an expression that is being used directly and assigns it to a local variable first
 
     Shortcuts:
