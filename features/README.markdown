@@ -2,7 +2,9 @@
 
 ## Issues
 
-If you identify any issues or specific funtionality you would like to see added, write the Cucumber feature and submit an [issue](https://github.com/ecomba/vim-ruby-refactoring/issues) or a [pull](https://github.com/ecomba/vim-ruby-refactoring/pulls) request:
+If you identify any issues or specific funtionality you would like to see added, write the Cucumber feature (structured similarly to the example below) and submit a [pull](https://github.com/ecomba/vim-ruby-refactoring/pulls) request or submit an [issue](https://github.com/ecomba/vim-ruby-refactoring/issues):
+
+  Example:
 
     @issue 
     Scenario: Add a parameter to a method defined with no parameters or parentheses
